@@ -2,7 +2,7 @@
 - 👀 I’m interested in making  scalable web applications for companies 
 
   Web
-  node.jd(js)
+  node.js(js)
   js
   html
   css
