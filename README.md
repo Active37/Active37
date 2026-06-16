@@ -1,7 +1,23 @@
 - 👋 Hi, I’m @Active37
-- 👀 I’m interested in makiny scalable web applications for companies 
-- 🌱 I’m currently learning php and JavaScript 
-- 💞️ I’m looking to collaborate on with web projects 
+- 👀 I’m interested in making  scalable web applications for companies 
+
+  Web
+  node.jd(js)
+  js
+  html
+  css
+  tailwind.css
+react
+typescript
+php
+
+language 
+java
+c
+x++
+python 
+php
+JavaScript 
 - 📫 How to reach me: Phone number:08164098134, Email: bankolepraise3@gmail.com
   
 
