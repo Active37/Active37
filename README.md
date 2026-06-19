@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Active37
+8- 👋 Hi, I’m @Active37
 - 👀 I’m interested in making  scalable web applications for companies 
 
   Web
@@ -27,3 +27,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Active37 GitHub stats](https://github-readme-stats.vercel.app/api?username=Active37)](https://github.com/Active37/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Active37)](https://git.io/streak-stats)
